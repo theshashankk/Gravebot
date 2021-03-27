@@ -5,27 +5,27 @@ module.exports = {
 
   // *Required* Bot token. Can be found in your bots application page.
   // https://discordapp.com/developers/applications/me
-  TOKEN: '',
+  TOKEN: 'ODI1NDI5NDc5NDEyNDY1Njk1.YF9zGw.k8WMRsyIOBQb0OtDAfZbvbWumxI',
 
   // *Required* Bot client ID. Can be found in your bots application page.
   // https://discordapp.com/developers/applications/me
-  CLIENT_ID: '',
+  CLIENT_ID: '825429479412465695',
 
   // *Required* Redis URL. Can be left blank if Redis is opened locally.
   // Learn more here. http://redis.io/topics/quickstart
-  REDIS_URL: '',
+  REDIS_URL: 'redis-11417.c258.us-east-1-4.ec2.cloud.redislabs.com:11417',
 
   // Time to wait between commands per user in seconds. Default is 1.
-  MESSAGE_TTL: '',
+  MESSAGE_TTL: '1',
 
   // Youtube API key, used for searching videos with `!youtube`.
   // Learn more here. https://developers.google.com/youtube/v3/getting-started
-  YOUTUBE_KEY: '',
+  YOUTUBE_KEY: 'AIzaSyDW_8mG9dLgzl60w3lM0SWHpydjXL2cmzg',
 
   // Imgflip username and password, used for creating memes with `!meme`.
   // Create an account here. https://imgflip.com
-  IMGFLIP_USERNAME: '',
-  IMGFLIP_PASSWORD: '',
+  IMGFLIP_USERNAME: 'Theshashank',
+  IMGFLIP_PASSWORD: '@Shashank009',
 
   // Champion.gg API key, used for the League of Legends `!lol` commands.
   // Create a key here. http://api.champion.gg
@@ -42,7 +42,7 @@ module.exports = {
 
   // PasteBin API key, used to create pastes with `!paste`.
   // Get a key here. http://pastebin.com/api
-  PASTEBIN_KEY: '',
+  PASTEBIN_KEY: '-HCgzdh_BwR2PVnwVLEYDQL96yL1j84v',
 
   // Popkey API key, used for searching GIFs with `!popkey`.
   // Apply for a key here. http://popkey.co/api/submit
@@ -62,5 +62,5 @@ module.exports = {
   DBOTS_KEY: '',
 
   // Feedback Channel ID, used for storing feedback with `!feedback`.
-  FEEDBACK_CHANNEL_ID: ''
+  FEEDBACK_CHANNEL_ID: '825435132822290483'
 };
